@@ -1,0 +1,14 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^data-raw$
+^LICENSE\.md$
+^\.github$
+^README\.Rmd$
+^_pkgdown\.yml$
+^pkgdown$
+^docs$
+^.*\.zip$
+^codemeta\.json$
+^CODE_OF_CONDUCT\.md$
+^\.positai$
+^\.claude$
