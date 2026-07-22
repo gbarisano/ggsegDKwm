@@ -1,0 +1,2 @@
+Run data-raw/make_logo.R to generate logo.png here (and pkgdown/favicon/).
+Until then the README logo/img link will 404 — harmless, replaced on first logo build.
