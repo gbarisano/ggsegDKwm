@@ -2,7 +2,7 @@ Package: ggsegDKwm
 Title: Desikan-Killiany White-Matter Parcellation Atlas for the 'ggsegverse' Ecosystem
 Version: 0.0.1
 Authors@R:
-    person("Giuseppe", "Barisano", email = "barisano@stanford.edu", role = c("aut", "cre"),comment = c(ORCID = "0000-0001-5598-1369")))
+    person("Giuseppe", "Barisano", email = "barisano@stanford.edu", role = c("aut", "cre"),comment = c(ORCID = "0000-0001-5598-1369"))
 Description: Axial Desikan-Killiany white-matter parcellation ('wmparc')
     together with basal-ganglia structures (caudate, putamen, pallidum,
     thalamus), provided as a 'ggseg_atlas' object for use with 'ggseg'.
